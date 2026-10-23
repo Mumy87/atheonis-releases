@@ -1,9 +1,9 @@
 {
-  "versionCode": 51,
-  "versionName": "1.0.51",
+  "versionCode": 53,
+  "versionName": "1.0.53",
   "apkUrl": "https://github.com/Mumy87/atheonis-releases/releases/latest/download/atheonis-app.apk",
-  "releaseNotes": "Actualización oficial de Atheonis (Versión 1.0.51, Build 51).",
-  "publishedAt": "2026-10-23T00:42:03Z",
-  "sha256": "bf3afbd1f25ea1060c2ef411046cef067b823d850c542111b99ab48ee445eecc",
-  "size": 103276682
+  "releaseNotes": "Actualización oficial de Atheonis (Versión 1.0.53, Build 53).",
+  "publishedAt": "2026-10-23T17:12:13Z",
+  "sha256": "d2cb638ca59e85fd3057701b58a88258a80b17d3750f909f9955deca7279a929",
+  "size": 103281944
 }
